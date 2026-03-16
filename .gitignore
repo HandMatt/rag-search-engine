@@ -1,4 +1,6 @@
-# Python-generated files
+# Python
+.venv
+uv.lock
 __pycache__/
 *.py[oc]
 build/
@@ -6,9 +8,8 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
-.venv
-uv.lock
+# IDE
+.vscode/
 
-# Data files
+# Data
 data/
